@@ -86,4 +86,4 @@ Pipe results into a file for saving reports:
 
 ## 🧙 About
 
-This tool is made for pentesters, CTF players, and anyone with way too many hashes and not enough time.
+This tool is made for pentesters, CTF players, and anyone with way too many hashes and not enough time. Python is much faster version!
